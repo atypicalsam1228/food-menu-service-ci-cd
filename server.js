@@ -9,8 +9,8 @@ const APP_VERSION = process.env.APP_VERSION || "v2.0";
 const menu = [
   { id: 1, name: "Pedro's Sausage and HotDog (Whole Sausages and HotDogs) Pizza", price: 299 },
   { id: 2, name: "Pedro's Pork and Bean Burrito", price: 149 },
-  { id: 3, name: "Pasta Alfredo", price: 249 },
-  { id: 4, name: "French Fries", price: 99 }
+  { id: 3, name: "Pedro Pasta Alfredo", price: 249 },
+  { id: 4, name: "Octavia's Meth French Fries", price: 99 }
 ];
 
 // Serve static frontend
